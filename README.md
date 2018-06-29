@@ -1,3 +1,2 @@
 # desktop-theme-breeze-alphablack
-A semi-transparent black theme based on top of the default Breeze theme
-Includes the AplaBlack control widget
+A semi-transparent black theme based on top of the default Breeze theme.
